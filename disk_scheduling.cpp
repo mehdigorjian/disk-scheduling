@@ -179,7 +179,3 @@ int main(int argc, char **argv)
     cscan(arr, head);
     return 0;
 }
-// Reference
-// https://www.geeksforgeeks.org/fcfs-disk-scheduling-algorithms/
-// https://www.geeksforgeeks.org/scan-elevator-disk-scheduling-algorithms/
-// https://www.geeksforgeeks.org/c-scan-disk-scheduling-algorithm/
